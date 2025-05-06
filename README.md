@@ -1,9 +1,46 @@
-- 👾 Hiii, I'm Saleha ~
-- 🌚 Primarily interested in graduating (send help) 
-- 🌱 I'm currently learning Data structures, Machine Learning, x86 Assembly language and of course, anything to do with Computational Biology. Web development is a side quest these days. 
-- 👽 I take tangents regularly so I'm always open to collaborate on fun projects! (as long as I'm leveling up 👀) 
-- 💃 Feel free to reach out to me on my LinkedIn: https://www.linkedin.com/in/saleha-asim-5b05aa244
-- 🐼 Fun fact: I have 41 journals, and I *will* throw around bad puns. 
+# 👾 Hey, I’m Saleha ~  
+Welcome to my corner of chaotic curiosity
+
+---
+
+
+🌱 **Currently exploring:**  
+- Data Structures & Algorithms  
+- Machine Learning (with a bio spin!)  
+- x86 Assembly Language  
+- Computational Biology & Bioinformatics tools (BLAST, Reactome, UniProt, MEGA, etc.)  
+- Web Dev as a side quest (think Streamlit dashboards, cool interfaces with HTML/CSS, and hints of JS)
+
+
+🌚 **Academic Life:**  
+I’m a 2nd-year Bioinformatics undergrad trying to make sense of life’s complexity through code, logic, and a lot of Stack Overflow.  
+My projects usually sit at the intersection of biology, data, and design—from disease prediction models, sequence analysis pipelines, to even a cheeky movie recommendation system.
+
+
+🧠 **What I'm aiming for this summer:**  
+- Building a public portfolio (hello, GitHub!)
+- Collaborating with like-minded peers  
+- Lurking in academic workshops/ forums and pretending I understand protein folding algorithms
+- Completing a few online courses
+
+
+🛠️ **Languages & Tools:**  
+Python | Java | C | MySQL  
+Git | Reactome | UniProt | BLAST | EMBOSS | Jalview | Kalign | MEGA | Streamlit | LaTeX  
+
+
+🤝 **Open to collaboration!**  
+Whether it’s a quick hackathon, a slow-burn research pipeline, or a fun automation tool—I’m down to explore as long as I’m leveling up. 
+
+
+📫 **Reach out via LinkedIn** 
+linkedin.com/in/saleha-asim-5b05aa244
+
+🐼 **Fun fact:** I have 41 journals, and I *will* make bad puns.
+
+---
+
+
 
 <!---
 saleha-zip/saleha-zip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
