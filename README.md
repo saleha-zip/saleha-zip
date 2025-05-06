@@ -34,7 +34,7 @@ Whether it’s a quick hackathon, a slow-burn research pipeline, or a fun automa
 
 
 📫 **Reach out via LinkedIn** 
-linkedin.com/in/saleha-asim-5b05aa244
+[Saleha Asim](https://www.linkedin.com/in/saleha-asim-5b05aa244/)
 
 🐼 **Fun fact:** I have 41 journals, and I *will* make bad puns.
 
