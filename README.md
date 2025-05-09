@@ -1,19 +1,17 @@
 # 👾 Hey, I’m Saleha ~  
-Welcome to my corner of chaotic curiosity
-
 ---
 
 
 🌱 **Currently exploring:**  
 - Data Structures & Algorithms  
 - Machine Learning (with a bio spin!)  
-- x86 Assembly Language  
+- Assembly Language (x86)
 - Computational Biology & Bioinformatics tools (BLAST, Reactome, UniProt, MEGA, etc.)  
 - Web Dev as a side quest (think Streamlit dashboards, cool interfaces with HTML/CSS, and hints of JS)
 
 
 🌚 **Academic Life:**  
-I’m a 2nd-year Bioinformatics undergrad trying to make sense of life’s complexity through code, logic, and a lot of Stack Overflow.  
+I’m a 2nd-year Bioinformatics undergrad trying to make sense out of life through code, logic, and a lot of Stack Overflow.  
 My projects usually sit at the intersection of biology, data, and design—from disease prediction models, sequence analysis pipelines, to even a cheeky movie recommendation system.
 
 
@@ -30,7 +28,7 @@ Git | Reactome | UniProt | BLAST | EMBOSS | Jalview | Kalign | MEGA | Streamlit 
 
 
 🤝 **Open to collaboration!**  
-Whether it’s a quick hackathon, a slow-burn research pipeline, or a fun automation tool—I’m down to explore as long as I’m leveling up. 
+Whether it’s a quick hackathon, a slow-burn research pipeline, or a fun automation tool—I’m down to explore (as long as I’m leveling up)
 
 
 📫 **Reach out via LinkedIn** 
