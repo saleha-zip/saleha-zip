@@ -12,7 +12,7 @@
 
 🌚 **Academic Life:**  
 I’m a 2nd-year Bioinformatics undergrad trying to make sense out of life through code, logic, and a lot of Stack Overflow.  
-My projects usually sit at the intersection of biology, data, and design—from disease prediction models, sequence analysis pipelines, to even a cheeky movie recommendation system.
+My projects usually sit at the intersection of biology, data, and design - from disease prediction models, sequence analysis pipelines, to even a cheeky movie recommendation system.
 
 
 🧠 **What I'm aiming for this summer:**  
@@ -28,7 +28,7 @@ Git | Reactome | UniProt | BLAST | EMBOSS | Jalview | Kalign | MEGA | Streamlit 
 
 
 🤝 **Open to collaboration!**  
-Whether it’s a quick hackathon, a slow-burn research pipeline, or a fun automation tool—I’m down to explore (as long as I’m leveling up)
+Whether it’s a quick hackathon, a slow-burn research pipeline, or a fun automation tool - I’m down to explore (as long as I’m leveling up, hehe)
 
 
 📫 **Reach out via LinkedIn** 
