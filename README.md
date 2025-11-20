@@ -6,7 +6,7 @@
 - Design and Analysis of Algorithms (LeetCode, I'm coming for you)
 - Machine Learning and Data Analysis pipelines 
 - Computational Biology & Bioinformatics tools 
-- Operating Systems (RISC-V architecture,egos-2000)
+- Software Engineering
 - Genome Wide Association Studies and CLI tools like PLINK and GEMMA
 
 
