@@ -2,17 +2,16 @@
 ===
 
 ### 🌱 **Currently exploring:**  
-- Big Data in Biology (Spark, Docker, SnakeMake and so on)
-- Design and Analysis of Algorithms (LeetCode, I'm coming for you)
-- Machine Learning and Data Analysis pipelines 
-- Computational Biology & Bioinformatics tools 
-- Software Engineering
-- Genome Wide Association Studies and CLI tools like PLINK and GEMMA
+- Scaling Big Data pipelines (Spark, Docker, Singularity, Nextflow and so on) 
+- Parallel and Distributed Computing 
+- Deep Learning and Data Analysis pipelines 
+- Bioinformatics tools like Galaxy, IGV, AUGUSTUS, RepeatMasker.
+- Genomics (and my favorite tangents: Cancer Genomics and Epigenetics)
+- Genome Wide Association Studies and CLI tools like PLINK and GEMMA.
 
 
 ### 🌚 **Academic Life:**  
-I’m a 3nd-year Bioinformatics undergrad who's trying to stick to one research interest.\
-*Everyday I fall in love with WSL a little more*
+I’m a 3nd-year Bioinformatics undergrad who's on the hunt for research ideas for her FYP.
 
 
 ### 🧠 **What I'm aiming for this semester:**  
@@ -23,11 +22,11 @@ I’m a 3nd-year Bioinformatics undergrad who's trying to stick to one research 
 
 
 ### 🛠️ **Languages:**  
-Python | Java | R | MySQL | C 
+Python | Bash | Java | R | C | MySQL 
 
 
 ### 🤝 **Open to collaboration!**
-Whether it’s a quick hackathon, a slow-burn research pipeline, or a fun automation tool - I’m down to explore (as long as I’m leveling up, hehe)
+Whether it’s a quick hackathon, a slow-burn research pipeline, or a fun automation tool - I’m down to explore!
 
 ---
 ##### 📫 **Reach out via LinkedIn:** [Saleha Asim](https://www.linkedin.com/in/saleha-asim-5b05aa244/)
