@@ -4,10 +4,10 @@
 ### 🌱 **Currently exploring:**  
 - Scaling Big Data pipelines (Spark, Docker, Singularity, Nextflow and so on) 
 - Parallel and Distributed Computing 
-- Deep Learning and Data Analysis pipelines 
-- Bioinformatics tools like Galaxy, IGV, AUGUSTUS, RepeatMasker.
+- Deep Learning in life sciences
+- Bioinformatics tools like Galaxy, IGV, AUGUSTUS, RepeatMasker
 - Genomics (and my favorite tangents: Cancer Genomics and Epigenetics)
-- Genome Wide Association Studies and CLI tools like PLINK and GEMMA.
+- Genome Wide Association Studies and CLI tools like PLINK and GEMMA
 
 
 ### 🌚 **Academic Life:**  
